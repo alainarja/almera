@@ -25,7 +25,9 @@ export default function Home() {
         }}
       >
         <div style={{ alignSelf: "center", width: "100%" }}>
-          <FileViewer fileType="pdf" filePath="/pdf.pdf" />
+          <FileViewer fileType="pdf" filePath="/pdf1.pdf" />
+          <FileViewer fileType="pdf" filePath="/pdf2.pdf" />
+          <FileViewer fileType="pdf" filePath="/pdf3.pdf" />
         </div>
       </main>
     </div>
